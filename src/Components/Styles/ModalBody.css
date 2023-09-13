@@ -1,0 +1,24 @@
+.modal-body {
+  display: flex;
+  padding: 1rem;
+  gap: 3rem;
+}
+
+.modal-body .modalleft img {
+  height: 57vh;
+  width: 8vw;
+}
+.modalright {
+  text-align: start;
+}
+.modalright .description h3,
+h4 {
+  color: rgb(155, 3, 3);
+}
+.modalright p {
+  font-size: 15px;
+  margin-bottom: 0.3rem;
+}
+.ingredients ul {
+  list-style-type: none;
+}
